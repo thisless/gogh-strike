@@ -13,7 +13,7 @@
   "dependencies": {
     "three": "0.170.0"
   },
-  "description": "A painterly six-versus-six browser shooter with twelve historical artists.",
+  "description": "A top-down graveyard adventure and a painterly six-versus-six browser shooter.",
   "license": "MIT",
   "engines": {
     "node": ">=20"

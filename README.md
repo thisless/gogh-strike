@@ -1,3 +1,37 @@
+# Grave of the Past
+
+**A Link to the Past × Graveyard Keeper.**
+
+A top-down pixel-art graveyard adventure set in Hollowmere Parish. Dig the restless dead, bury what remains, light the sepulchral braziers, and face the Hollow Warden beneath the church. The whole vigil runs in the browser with no install and no external assets.
+
+### [Play Grave of the Past →](https://gogh-strike.surge.sh/)
+
+Desktop keyboard · Synthesised sound · About 20 minutes
+
+## The keeper’s loop
+
+Speak with the Sexton, then follow the golden wisps to three restless graves. Hold **E** to dig, carry the remains to the empty plots, and hold **E** again to bury them. Each soul laid to rest earns coins and opens the church seal.
+
+Below the church, the Sunken Ossuary waits. Light its three braziers, cut through the restless dead, and break the Hollow Warden. The Keeper’s Stone can hone your blade or widen your lantern if you bring enough coin, wood, and stone. Chests, trees, and rocks around the parish reward a little wandering.
+
+## Controls
+
+| Input | Action |
+| --- | --- |
+| W / A / S / D; arrows | Move |
+| Shift | Dash |
+| Space / J / left click | Swing the blade |
+| Hold E | Dig, bury, chop, mine, light, or speak |
+| E | Read, open, rest, or confirm |
+| M | Parish map |
+| H | Controls |
+| Esc / P | Pause |
+| F | Mute |
+
+The original painterly shooter remains at [gogh-strike.html](./gogh-strike.html).
+
+---
+
 # Gogh Strike
 
 **Twelve artists. Two rival crews. One paint fight.**
